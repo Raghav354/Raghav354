@@ -7,9 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav354&label=Profile%20views&color=0e75b6&style=flat" alt="raghav354" /> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose and some other Coding stuff.**
-
-- 💬 Ask me about **Android , Coding**
+- 🌱 I’m currently learning **Java Spring Boot**.
 
 - 📫 How to reach me **sharmaraghav2908@gmail.com**
 
